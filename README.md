@@ -8,7 +8,7 @@ These projects are part of an advanced exploration into **Natural Language Proce
 |----------------------------------------------|---------------------------------------------------------------------------------------------------|
 | `01_hierarchical_attention_network_gru.ipynb`| Implementation of a Hierarchical Attention Network (HAN) for document classification using GRU.   |
 | `02_transfer_learning_nlp.ipynb`             | Applying pretrained models to different downstream NLP tasks, showcasing transfer learning.       |
-| `03_large_language_models.ipynb`             | Fine-tuning and evaluating large language models for text generation and summarization tasks.     |
+| `03_large_language_models.ipynb`             | Fine-tuning and evaluating large language models for text generation and question answering tasks.     |
 | `04_machine_learning_for_graphs.ipynb`       | Experiments with node embeddings and graph kernels for node classification and link prediction.   |
 | `05_deep_learning_for_graphs.ipynb`          | Exploration of Graph Neural Networks (GNNs), message-passing, and graph auto-encoders.           |
 
